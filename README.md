@@ -30,4 +30,4 @@ Model performance is evaluated using accuracy metrics.
 
 ## Results and Visualization
 
-Results are presented using Tableau visualizations. [https://public.tableau.com/app/profile/oguzhan.sahingiz/viz/SugarSync/SugarSync]
+Results are presented using Tableau visualizations. [https://public.tableau.com/app/profile/oguzhan.sahingoz/viz/SugarSync/SugarSync]
